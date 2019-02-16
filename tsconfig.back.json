@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "alwaysStrict":true,
+    "diagnostics":true,
+    "declaration": true,
+    "pretty":true,
+    "experimentalDecorators":true,
+    "noImplicitAny": false,
+    "target": "es5",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "./app/build/back",
+    "lib": [
+      "es6"
+    ]
+  },
+  "include": [
+    "app/src/back/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "app/src/back/tests"
+  ]
+}

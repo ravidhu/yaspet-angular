@@ -1,0 +1,25 @@
+div.yaspert {
+
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  div {
+
+    flex: 1 auto;
+
+    h1 {
+      text-align: center;
+    }
+
+    h2 {
+      text-align: center;
+      font-style: italic;
+      font-weight: 100;
+    }
+
+  }
+
+}

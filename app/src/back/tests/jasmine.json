@@ -1,0 +1,9 @@
+{
+  "spec_dir": "app/src/back",
+  "spec_files": [
+    "tests/**/*[sS]pec.js"
+  ],
+  "helpers": [
+    "helpers/**/*.js"
+  ]
+}
