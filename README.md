@@ -43,3 +43,7 @@ You run tests for front and back with ;
 ## Author
 
 **[Ravidhu Dissanayake](mailto:contact@ravidhu.com)**
+
+## Other Editions 
+
+* [YASPET : React Edtion](https://github.com/ravidhu/yaspet-react)
