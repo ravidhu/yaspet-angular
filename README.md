@@ -11,7 +11,7 @@ This edition come with all the Angular Framework tooling.
 
 Only one tool was added on this project : Nodemon to reload the main process during development.
 
-Unlike React Edtion of YASPET, the package manager is NPM for this edition. That is simply because the "Getting Start" of Angular use it to install @angular/cli.
+Unlike [React Edtion of YASPET](https://github.com/ravidhu/yaspet-react), the package manager is NPM for this edition. That is simply because the "Getting Start" of Angular use it to install @angular/cli.
 
 Of course, feel free to change the package manager and choose the one you like ;) 
 
